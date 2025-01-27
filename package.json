@@ -113,7 +113,7 @@
     "jest-sonar": "0.2.16",
     "json-loader": "0.5.7",
     "lighthouse": "12.3.0",
-    "lint-staged": "15.4.2",
+    "lint-staged": "15.4.3",
     "merge-jsons-webpack-plugin": "2.0.1",
     "mini-css-extract-plugin": "2.9.2",
     "postcss-loader": "8.1.1",
